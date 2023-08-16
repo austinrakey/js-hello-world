@@ -4,8 +4,15 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log("Austin is Great!");
+console.log(2+5);
+console.log('Austin is "Great!"') .repeat(10);
 
+
+
+/*
+whoah notes!
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
@@ -18,5 +25,4 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    6. Print multiple messages one after the other.
    7. Print two messages on the same line.
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
-   9. Other. You choose!
-*/
+   9. Other. You choose!*/
