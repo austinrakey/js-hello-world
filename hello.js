@@ -7,8 +7,7 @@ to the console (the panel on the right)
 console.log("Hello, World!");
 console.log("Austin is Great!");
 console.log(2+5);
-console.log('Austin is "Great!"') .repeat(10);
-
+console.log('Austin is "Great!"');
 
 
 /*
